@@ -37,5 +37,6 @@
   ![9](https://github.com/Jungwonje/-/assets/172956248/670b7126-33aa-4cf3-ac31-44253f20a0df)
   ![10](https://github.com/Jungwonje/-/assets/172956248/db6212a6-1377-4482-9fed-c832b6c30431)
 - 모든 액티비티들은 돌아가기 버튼을 통해서 다시 메인화면으로 돌아갈 수 있다.
+  
   ![1](https://github.com/Jungwonje/-/assets/172956248/7321d26c-408d-481f-90cf-fae33e1b7bd8)
 - 이를 통해서 유로2024에 대해서 조금이나마 알아볼 수 있다.
