@@ -53,3 +53,5 @@
  
 ### 3. 발표영상
 Youtube 링크입니다.
+
+[![Video Label](http://img.youtube.com/vi/M4gXk0NJDnY/0.jpg)](https://youtu.be/M4gXk0NJDnY')
